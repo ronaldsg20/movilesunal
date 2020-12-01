@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41538233190",
+    "firebase_url": "https://test-project-a3036.firebaseio.com",
+    "project_id": "test-project-a3036",
+    "storage_bucket": "test-project-a3036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41538233190:android:3e7f1123f42a21f26b9ea7",
+        "android_client_info": {
+          "package_name": "com.example.reto3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41538233190-pnrj67tsionab029mtu9u70dhduiq238.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYaXC8bD0jbKwhv9djDDvCzp5KpvuP1ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41538233190-pnrj67tsionab029mtu9u70dhduiq238.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
